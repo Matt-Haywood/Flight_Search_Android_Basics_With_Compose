@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Flight Search</string>
+    <string name="favorite_routes">Favorite routes</string>
+    <string name="no_favorites">No favorites yet :\'(</string>
+    <string name="search_placeholder">Search Flights</string>
+    <string name="depart">Depart</string>
+    <string name="arrive">Arrive</string>
+    <string name="departures_from">Departures from %1$s</string>
+</resources>
